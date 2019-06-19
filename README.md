@@ -29,8 +29,8 @@ composer install --no-interaction --no-dev --prefer-dist
 # Update plugins
 php artisan october:up
 
-# Restart supervisor (if any)
-supervisorctl restart all
+# Restart the queue worker (if any)
+php artisan queue:restart
 
 # Update front-end dependencies
 yarn install

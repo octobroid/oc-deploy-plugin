@@ -1,6 +1,6 @@
 # Auto Git Deployment Plugin for OctoberCMS
 
-This is a plugin that help you to automate every git push into your serer. You can create custom script to run the deployment process.
+This is a plugin that help you to automate every git push into your server. You can create custom script to run the deployment process.
 
 ### Supported Providers
 

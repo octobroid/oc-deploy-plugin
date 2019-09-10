@@ -67,3 +67,7 @@ Set the webhook on your git repository provider.
 
 #### GitLab
 *Coming Soon*
+
+## License
+
+The OctoberCMS platform is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
